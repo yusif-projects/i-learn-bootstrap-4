@@ -6,5 +6,6 @@
 * Cards
 * Utilities
 * Typography
-* Navigation
+* Navs
 * Footers
+* Nav Bars
